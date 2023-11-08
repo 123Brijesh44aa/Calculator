@@ -2,7 +2,14 @@
 
 Calculator application
 
-## Getting Started
+# Screenshot
+
+<img src="https://github.com/123Brijesh44aa/Calculator/assets/83857442/bbcd1337-da3e-409a-8447-55b688248b68" width="300" height="600">
+
+
+
+## Getting Started!
+
 
 This project is a starting point for a Flutter application.
 
